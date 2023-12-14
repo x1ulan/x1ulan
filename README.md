@@ -8,7 +8,7 @@ Learning:
 > * * _Reversed_
 > * ___Python___
 > * ___C++___
-[![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?account=u210630@tcivs.tc.edu.tw&name=x1ulan)](https://github.com/jason810496/Zerojudge-stats)
+![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?user_id=u210630@tcivs.tc.edu.tw&name=x1ulan&theme=prussian)
 ---
 [my website](https://youtu.be/BbeeuzU5Qc8)
 ---
